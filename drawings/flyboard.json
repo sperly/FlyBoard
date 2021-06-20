@@ -1,0 +1,494 @@
+[
+  {
+    "name": "FlyBoard",
+    "author": "Eric Lind",
+    "background": {
+      "name": "Carbon fibre 1",
+      "style": "background-image: url('/bg/carbonfibre/carbon_texture1879.png');"
+    },
+    "radii": "20px",
+    "switchMount": "cherry",
+    "pcb": true
+  },
+  [
+    {
+      "r": 25,
+      "rx": 6.5,
+      "ry": 4.25,
+      "y": -4.25,
+      "x": -3,
+      "c": "#7fa580",
+      "p": "SA R1",
+      "sm": "cherry"
+    },
+    "#\n3\n\n£\nF3"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": -4
+    },
+    "\"\n2\n\n@\nF2",
+    {
+      "x": 1
+    },
+    "¤\n4\n\n$\nF4"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": -1
+    },
+    "%\n5\n\n€\nF5"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": -5
+    },
+    "!\n1\n\n\nF1"
+  ],
+  [
+    {
+      "y": -0.625,
+      "x": -6,
+      "c": "#dd1126"
+    },
+    "ESC\n§\n\n\n\n\n½"
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": -3,
+      "c": "#c3c3ba",
+      "p": "SA R2"
+    },
+    "E\n\n\n€\nW"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": -4
+    },
+    "W\n\n\n\nQ",
+    {
+      "x": 1
+    },
+    "R\n\n\n\nE"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": -1
+    },
+    "T\n\n\n&tau;"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": -5
+    },
+    "Q"
+  ],
+  [
+    {
+      "y": -0.625,
+      "x": -6,
+      "c": "#aca693"
+    },
+    "TAB"
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": -3,
+      "c": "#c3c3ba",
+      "p": "SA R3"
+    },
+    "D\n\n\n&Delta;\nS"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": -4
+    },
+    "S\n\n\n&sum;\nA",
+    {
+      "x": 1,
+      "n": true
+    },
+    "F\n\n\n&phi;\nD"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": -1
+    },
+    "G\n\n\n&gamma;"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": -5
+    },
+    "A\n\n\n&alpha;"
+  ],
+  [
+    {
+      "y": -0.625,
+      "x": -6,
+      "c": "#aca693"
+    },
+    "SHIFT"
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": -3,
+      "c": "#c3c3ba",
+      "p": "SA R4"
+    },
+    "C\n\n\n&deg;\n<i class='fa fa-calculator'></i>"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": -4
+    },
+    "X",
+    {
+      "x": 1
+    },
+    "V"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": -1
+    },
+    "B\n\n\n&beta;"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": -5
+    },
+    "Z",
+    {
+      "x": 4,
+      "c": "#aca693",
+      "p": "SA R5",
+      "sm": ""
+    },
+    "Left\n\n\n\n\n\nMouse"
+  ],
+  [
+    {
+      "y": -0.625,
+      "x": -6,
+      "c": "#c3c3ba",
+      "p": "SA R4",
+      "sm": "cherry"
+    },
+    ">\n<\n\n|"
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": -3,
+      "c": "#aca693",
+      "p": "SA R5"
+    },
+    "FN"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": -4
+    },
+    "ALT"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": -2,
+      "c": "#7fa580",
+      "p": "SA SPACE",
+      "w": 2
+    },
+    "SPACE"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": -5,
+      "c": "#aca693",
+      "p": "SA R5",
+      "a": 5
+    },
+    "<i class='kb kb-logo-commodore'></i>",
+    {
+      "x": 4.01,
+      "a": 4
+    },
+    "SHIFT"
+  ],
+  [
+    {
+      "y": -0.625,
+      "x": -6
+    },
+    "CTRL"
+  ],
+  [
+    {
+      "r": -25,
+      "rx": 14.75,
+      "y": -4.25,
+      "x": 2,
+      "c": "#7fa580",
+      "p": "SA R1"
+    },
+    "(\n8\n\n[\nF8"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 1
+    },
+    "/\n7\n\n{\nF7",
+    {
+      "x": 1
+    },
+    ")\n9\n\n]\nF9"
+  ],
+  [
+    {
+      "y": -0.875
+    },
+    "&\n6\n\n\nF6"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 4
+    },
+    "=\n0\n\n}\nF10"
+  ],
+  [
+    {
+      "y": -0.625,
+      "x": 5,
+      "c": "#aca693"
+    },
+    "DEL\n\n\n\nF11"
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 2,
+      "c": "#c3c3ba",
+      "p": "SA R2"
+    },
+    "I\n\n\n\n<i class='fa fa-arrow-up'></i>"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 1
+    },
+    "U\n\n\n\n<i class='kb kb-Multimedia-Volume-Up-1'></i>",
+    {
+      "x": 1
+    },
+    "O\n\n\n&Omega;",
+    {
+      "x": 2,
+      "c": "#aca693",
+      "p": "SA R1"
+    },
+    "BKSP\n\n\n\nF12"
+  ],
+  [
+    {
+      "y": -0.875,
+      "c": "#c3c3ba",
+      "p": "SA R2"
+    },
+    "Y\n\n\n\n<i class='kb kb-Multimedia-Volume-Down-1'></i>"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 4
+    },
+    "P\n\n\n&pi;\nPG UP"
+  ],
+  [
+    {
+      "y": -0.625,
+      "x": 5
+    },
+    "Å"
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 2,
+      "p": "SA R3"
+    },
+    "K\n\n\n\n<i class='fa fa-arrow-down'></i>"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 1,
+      "n": true
+    },
+    "J\n\n\n\n<i class='fa fa-arrow-left'></i>",
+    {
+      "x": 1
+    },
+    "L\n\n\n&lambda;\n<i class='fa fa-arrow-right'></i>",
+    {
+      "x": 2,
+      "p": "SA R2"
+    },
+    "^\n¨\n\n~"
+  ],
+  [
+    {
+      "y": -0.875,
+      "p": "SA R3"
+    },
+    "H\n\n\n\n<i class='kb kb-Multimedia-Play-Pause'></i>"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 4
+    },
+    "Ö\n\n\n\nPG DN"
+  ],
+  [
+    {
+      "y": -0.625,
+      "x": 5
+    },
+    "Ä"
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 2,
+      "p": "SA R4"
+    },
+    ";\n,"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 1
+    },
+    "M\n\n\n&mu;\n<i class='kb kb-Multimedia-FastForward-End'></i>",
+    {
+      "x": 1
+    },
+    ":\n.\n\n\nHOME",
+    {
+      "x": 2,
+      "c": "#00589f",
+      "t": "#000000\n\n\n\n\n\n\n\n\n\n#0500ff",
+      "p": "SA",
+      "h": 2
+    },
+    "ENTER"
+  ],
+  [
+    {
+      "y": -0.875,
+      "c": "#c3c3ba",
+      "t": "#000000",
+      "p": "SA R4"
+    },
+    "N\n\n\n\n<i class='kb kb-Multimedia-Rewind-Start'></i>"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": -1,
+      "c": "#aca693",
+      "p": "SA R5",
+      "sm": ""
+    },
+    "Right\n\n\n\n\n\nMouse",
+    {
+      "x": 4,
+      "c": "#c3c3ba",
+      "p": "SA R4",
+      "sm": "cherry"
+    },
+    "-\n_\n\n\nEND"
+  ],
+  [
+    {
+      "y": -0.625,
+      "x": 5
+    },
+    "*\n'\n\n\nINS"
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 2,
+      "c": "#aca693",
+      "p": "SA R5"
+    },
+    "FN 2"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 3,
+      "a": 5
+    },
+    "<i class='kb kb-logo-linux-tux'></i>"
+  ],
+  [
+    {
+      "y": -0.875,
+      "c": "#7fa580",
+      "p": "SA SPACE",
+      "a": 4,
+      "w": 2
+    },
+    "SPACE"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": -1,
+      "c": "#aca693",
+      "p": "SA R5"
+    },
+    "ALT GR",
+    {
+      "x": 4
+    },
+    "CTRL"
+  ],
+  [
+    {
+      "y": -0.625,
+      "x": 5
+    },
+    "SHIFT"
+  ],
+  [
+    {
+      "y": -0.6100000000000003,
+      "x": 6
+    },
+    "LOCK\n\n\n\n<i class='kb kb-Multimedia-Mute-1'></i>"
+  ]
+]
