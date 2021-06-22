@@ -1,3 +1,6 @@
 ADC1_IN18 - Vbat monitoring
 ADC1_IN17 - Temp sensor
 
+To look in to PS2 on STM32:
+https://github.com/abondis/tmk_keyboard/blob/a18defcc49a5b6f46a0da50298e4d3cda272c1d1/tmk_core/protocol/ps2_io_chibios.c
+
