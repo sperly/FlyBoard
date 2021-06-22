@@ -1,0 +1,3 @@
+ADC1_IN18 - Vbat monitoring
+ADC1_IN17 - Temp sensor
+
