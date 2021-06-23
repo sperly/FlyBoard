@@ -1,3 +1,6 @@
 ADC1_IN18 - Vbat monitoring
 ADC1_IN17 - Temp sensor
 
+
+Use RNG to generate Passwords of different length
+Set WS2812_SPI SPID2
